@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=DevLucho&color=brightgreen)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucho&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucho&layout=compact)](https://github.com/DevLucho/github-readme-stats)
 
