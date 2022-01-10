@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm a full stack developer.
-<hr />
-### I work with technologies:
-<table align="center" >
+
+## I work with technologies:
+<table align="center">
   <tr>
     <td valign="top" width="33%">
-      ### Frontend
+      <p align="center"><b>Frontend</b></p>
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
           alt="React" height="50" />
@@ -20,7 +20,7 @@ I'm a full stack developer.
       </div>
     </td>
     <td valign="top" width="33%">
-      ### Backend
+      <p align="center"><b>Backend</b></p>
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP"
           height="50" />
@@ -39,7 +39,7 @@ I'm a full stack developer.
       </div>
     </td>
     <td valign="top" width="33%">
-      ### DevOps
+      <p align="center"><b>DevOps</b></p>
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg"
           alt="Azure" height="50" />
@@ -47,8 +47,8 @@ I'm a full stack developer.
     </td>
   </tr>
 </table>
-<hr />
-### Github Stats  
+
+## Github Stats  
 <div align="center">
   <img width="100%" height="200"
     src="https://github-readme-stats.vercel.app/api?username=DevLucho&show_icons=true&theme=radical" />
