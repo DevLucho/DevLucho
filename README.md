@@ -24,7 +24,6 @@ I'm a full stack developer.
       <div align="center">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP"
           height="50" />
-        
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
           alt="Node.js" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
@@ -33,7 +32,6 @@ I'm a full stack developer.
           height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg"
           alt="Symfony" height="50" />
-        
       </div>
     </td>
     <td valign="top" width="33%">
